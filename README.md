@@ -3,9 +3,7 @@
 Spotify Clone Using Spotify Api and Gettig Artist Profile , to release and To Playlist from  Spotify Api
 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1683368340](https://user-images.githubusercontent.com/98551202/236755667-b9a2d326-d31c-4dd1-9ecf-5c184e35fbc0.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_1683368448](https://user-images.githubusercontent.com/98551202/236755735-34fe5bab-75d9-4165-bdae-55623896a3b9.png)
